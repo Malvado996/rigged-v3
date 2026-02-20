@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center p-8 bg-gradient-to-b from-background to-background/80">
+    <main className="min-h-screen flex flex-col items-center justify-center p-8 bg-linear-to-b from-background to-background/80">
       {/* Hero */}
       <div className="text-center space-y-6 max-w-3xl">
         <h1 className="text-6xl md:text-8xl font-bold text-primary tracking-tight">
